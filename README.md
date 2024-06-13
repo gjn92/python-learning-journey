@@ -6,7 +6,7 @@ I am a total beginner in Python, and I created this repository to document my pr
 
 ## About Me
 
-- **Name**: [Your Name]
+- **Name**: Gajan Mogan
 - **Background**: Previously worked at CIBC as a Mutual Fund Representative and as a Relationship Manager at Wealthsimple.
 - **Current Goal**: Transition into a cybersecurity career by mastering Python.
 
@@ -24,5 +24,5 @@ I will be updating this repository regularly with notes, code snippets, and proj
 
 ## Connect with Me
 
-- **GitHub**: [Your GitHub Profile](https://github.com/your-profile)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+- **GitHub**: [Your GitHub Profile](https://github.com/gjn)
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/gajanmogan)
