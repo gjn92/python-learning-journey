@@ -24,5 +24,5 @@ I will be updating this repository regularly with notes, code snippets, and proj
 
 ## Connect with Me
 
-- **GitHub**: [Your GitHub Profile](https://github.com/gjn)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/gajanmogan)
+- **GitHub**: [Your GitHub Profile](https://github.com/gjn92)
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/gajan-mogan)
